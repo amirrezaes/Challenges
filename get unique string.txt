@@ -1,5 +1,6 @@
-ورودی برنامه شامل n رشته ب طول n هستن ب طوری که همه این رشته ها شامل فقط a و b هستند
-حالا هدف ما اینه ک رشته ای تولید کنیم که هیچ کدوم از این رشته ها نباشه 😁
-مهم اینه ک برنامتون برای تعداد زیاد خیلی سریع ب جواب برسه
+main challange: https://t.me/pyspyquiz_g/3995
 
-https://t.me/pyspyquiz_g/3995
+
+translate:
+wrtie a scripte that takes n string with lenght of n where strings are only contain 'a' and 'b'
+the script shlod create and return a unique string with given criteria which is not included in input.
